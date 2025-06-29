@@ -1,10 +1,10 @@
 ## Grüezi! 🇨🇭🇱🇰
-<img src="https://raw.githubusercontent.com/a-shanmugam/a-shanmugam/master/assets/mountain.jpg" alt="A nice mountain" width="302" height="403">  
-
+<img src="https://raw.githubusercontent.com/a-shanmugam/a-shanmugam/master/assets/mountain.jpg" alt="A nice mountain" width="302" align="left">  
+<p><em>
 My name is Alex and I'm a Data Science student @ [Fachhochschule Nordwestschweiz (FHNW)](https://www.fhnw.ch/de/studium/informatik/data-science) and Working Student @ [Yokoy](https://yokoy.io/) based in Basel. 
 
 I am currently in the last phase of my bachelor's project which aims to assess the authenticity and validity of AI generated brain MRIs by collecting and analysing eye-tracking data using an approach similar to [GazeVal](https://arxiv.org/abs/2503.20967). 
-
+</em></p>
 ## Skills
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)  [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
