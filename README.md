@@ -1,10 +1,15 @@
 ## Grüezi! 🇨🇭🇱🇰
-<img src="https://raw.githubusercontent.com/a-shanmugam/a-shanmugam/master/assets/mountain.jpg" alt="A nice mountain" width="302" align="left">  
-<p><em>
-My name is Alex and I'm a Data Science student @ [Fachhochschule Nordwestschweiz (FHNW)](https://www.fhnw.ch/de/studium/informatik/data-science) and Working Student @ [Yokoy](https://yokoy.io/) based in Basel. 
+<img src="https://raw.githubusercontent.com/a-shanmugam/a-shanmugam/master/assets/mountain.jpg" alt="A nice mountain" width="200" align="left">  
 
-I am currently in the last phase of my bachelor's project which aims to assess the authenticity and validity of AI generated brain MRIs by collecting and analysing eye-tracking data using an approach similar to [GazeVal](https://arxiv.org/abs/2503.20967). 
-</em></p>
+My name is Alex. I'm  a Data Science student @ <a href="https://www.fhnw.ch/de/studium/informatik/data-science)">Fachhochschule Nordwestschweiz (FHNW)</a> and a Working Student @ <a href="https://yokoy.io/">Yokoy</a> based in Basel. 
+<br>
+<br>
+I am currently in the last phase of my bachelor's project which aims to assess the authenticity and validity of AI generated brain MRIs by collecting and analysing eye-tracking data using an approach similar to <a href="https://arxiv.org/abs/2503.20967">GazeVal</a>.   
+
+## Experience & Knowledge
+- You can find a summary of my working experience [here](https://ds.alexshanmugam.com/cv/).
+- I'm also in the process of creating a publicly available knowledge base [here](https://kb.alexshanmugam.com)
+
 ## Skills
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)  [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
@@ -27,11 +32,6 @@ I am currently in the last phase of my bachelor's project which aims to assess t
 
 ### Misc
 [![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff)](#)
-
-
-## Experience & Knowledge
-- You can find a summary of my working experience [here](https://ds.alexshanmugam.com/cv/).
-- I'm also in the process of creating a publicly available knowledge base [here](https://kb.alexshanmugam.com)
 
 <!--
 **a-shanmugam/a-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
