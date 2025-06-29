@@ -4,33 +4,6 @@ My name is Alex and I'm a Data Science student @ [Fachhochschule Nordwestschweiz
 I am currently in the last phase of my bachelor's project which aims to assess the authenticity and validity of AI generated brain MRIs by collecting and analysing eye-tracking data using an approach similar to [GazeVal](https://arxiv.org/abs/2503.20967). 
 
 ## Skills
-Topics learned during my time at FHNW include:
-
-### Statistical Analysis
-- Bayesian Statistics
-- Stochastic Processes including Time Series
-- Regression Models
-
-### Machine Learning
-- Artificial Neural Networks & Deep Learning
-- Decision Trees
-- Dimensionality Reduction
-- Ensemble Learning
-- KNN
-- Reinforcement Learning
-
-### Applied Data Science
-- Natural Language Processing
-- Recommender Systems
-- Image and Signal Analysis
-- Eye-Tracking
-
-### Computer Science
-- Databases (SQL & NoSQL)
-- Web Development
-- CI/CD
-- OOP and functional programming
-
 ### Programming Languages
 * [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 * [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
