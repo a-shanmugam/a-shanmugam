@@ -1,5 +1,6 @@
 ## Grüezi!
-<img src="https://raw.githubusercontent.com/a-shanmugam/a-shanmugam/master/assets/mountain.jpg" alt="A nice mountain" width="302" height="403">
+<img src="https://raw.githubusercontent.com/a-shanmugam/a-shanmugam/master/assets/mountain.jpg" alt="A nice mountain" width="302" height="403">  
+
 My name is Alex and I'm a Data Science student @ [Fachhochschule Nordwestschweiz (FHNW)](https://www.fhnw.ch/de/studium/informatik/data-science) and Working Student @ [Yokoy](https://yokoy.io/) based in Basel. 
 
 I am currently in the last phase of my bachelor's project which aims to assess the authenticity and validity of AI generated brain MRIs by collecting and analysing eye-tracking data using an approach similar to [GazeVal](https://arxiv.org/abs/2503.20967). 
