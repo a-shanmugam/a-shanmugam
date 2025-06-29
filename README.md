@@ -1,4 +1,4 @@
-## Grüezi!
+## Grüezi! 🇨🇭🇱🇰
 <img src="https://raw.githubusercontent.com/a-shanmugam/a-shanmugam/master/assets/mountain.jpg" alt="A nice mountain" width="302" height="403">  
 
 My name is Alex and I'm a Data Science student @ [Fachhochschule Nordwestschweiz (FHNW)](https://www.fhnw.ch/de/studium/informatik/data-science) and Working Student @ [Yokoy](https://yokoy.io/) based in Basel. 
