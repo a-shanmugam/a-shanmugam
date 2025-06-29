@@ -32,7 +32,7 @@ Topics learned during my time at FHNW include:
 - OOP and functional programming
 
 ### Programming Languages
-Mainly Python & R
+[![My Skills](https://skillicons.dev/icons?i=py,r,ableton,bash,docker,git,idea,latex,md,mysql,obsidian,tensorflow)](https://skillicons.dev)
 
 ## Experience
 A summary of my working experience can be found [here](https://ds.alexshanmugam.com/cv/). 
