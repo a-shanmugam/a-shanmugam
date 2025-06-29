@@ -5,12 +5,13 @@ I am currently in the last phase of my bachelor's project which aims to assess t
 
 ## Skills
 ### Languages
-* [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-* [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-* [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-* [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 * [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 * [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+* [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+* [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+* [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+* [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+
 
 ### Data Science
 * [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
@@ -58,12 +59,9 @@ I am currently in the last phase of my bachelor's project which aims to assess t
 * [![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff)](#)
 
 
-## Experience
-You can find a summary of my working experience [here](https://ds.alexshanmugam.com/cv/). 
+## Experience & Knowledge
+You can find a summary of my working experience [here](https://ds.alexshanmugam.com/cv/). I'm also in the process of creating a publicly available knowledge base [here](https://kb.alexshanmugam.com)
 
-![](https://github-stats-alpha.vercel.app/api?username=a-shanmugam&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-shanmugam&size_weight=0.5&count_weight=0.5)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-shanmugam&theme=tokyonight&hide_langs_below=4)
 <!--
 **a-shanmugam/a-shanmugam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
