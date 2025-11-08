@@ -8,7 +8,6 @@ I am currently in the last phase of my bachelor's project which aims to assess t
 
 ## Experience & Knowledge
 - You can find a summary of my working experience [here](https://ds.alexshanmugam.com/cv/).
-- I'm also in the process of creating a publicly available knowledge base [here](https://kb.alexshanmugam.com)
 
 ## Skills
 ### Languages
