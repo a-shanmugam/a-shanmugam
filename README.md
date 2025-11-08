@@ -4,7 +4,7 @@
 My name is Alex. I'm  a Data Science student @ <a href="https://www.fhnw.ch/de/studium/informatik/data-science)">Fachhochschule Nordwestschweiz (FHNW)</a> and a Working Student @ <a href="https://yokoy.io/">Yokoy</a> based in Basel. 
 <br>
 <br>
-I am currently in the last phase of my bachelor's project which aims to assess the authenticity and validity of AI generated brain MRIs by collecting and analysing eye-tracking data using an approach similar to <a href="https://arxiv.org/abs/2503.20967">GazeVal</a>.   
+Having finished my bachelor's project which aimed to assess the authenticity and validity of AI generated brain MRIs by collecting and analysing eye-tracking data using an approach similar to <a href="https://arxiv.org/abs/2503.20967">GazeVal</a>, I'm now looking for my next challenge.   
 
 ## Experience & Knowledge
 - You can find a summary of my working experience [here](https://ds.alexshanmugam.com/cv/).
